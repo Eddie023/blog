@@ -1,4 +1,4 @@
-baseURL = "http://Eddie023.github.io/"
+baseURL = "https://Eddie023.github.io/"
 languageCode = "en-us"
 title = "Blog"
 theme = 'hugo-theme-cactus'
