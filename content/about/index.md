@@ -1,3 +1,3 @@
 # About
-Software Engineer who likes to dabble into different things. I also code sometimes.
+Software Engineer. Musing on software development, finance, investing, the economy and various other things.
 
